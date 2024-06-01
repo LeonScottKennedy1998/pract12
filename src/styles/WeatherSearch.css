@@ -1,0 +1,14 @@
+.weather-search {
+  margin: 20px 0;
+}
+
+.weather-search input {
+  padding: 10px;
+  font-size: 16px;
+}
+
+.weather-search button {
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}

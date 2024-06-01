@@ -1,0 +1,33 @@
+.weather-card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center; 
+  }
+  
+  .weather-card h2 {
+    margin: 0;
+  }
+  
+  .weather-card p {
+    margin: 5px 0;
+  }
+
+.weather-card.clear {
+  background: #feff50;
+}
+
+.weather-card.clouds {
+  background: #dde7ee;
+}
+
+.weather-card.rain {
+  background: #0073e6;
+  color: #fff;
+}
+
+.weather-card.thunderstorm {
+  background: #2d3656;
+  color: #fff;
+}

@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  max-width: 1200px; 
+  margin: 0 auto; 
+}
+.container {
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.city-buttons button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.weekly-weather {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
